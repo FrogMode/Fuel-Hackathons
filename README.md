@@ -5,7 +5,7 @@ Standard Template for Fuel Hackathons
 Fuel is the fastest execution layer for the modular blockchain stack that delivers maximum security and the highest flexible throughput for decentralized applications. Sway, the language you will need to use for this bounty is a DSL Inspired by Rust and Move, designed from the ground up to target the Fuel Virtual Machine.
  
 ## How to qualify? ☑️
-For this bounty, you must build a dApp using the Sway language. You must post a link to your devpost submission as a comment to this issue before the hackathon deadline (Sun, Sep 19, 11 AM Berlin time).
+For this bounty, you must build a dApp using the Sway language. You must post a link to your devpost submission as a comment to this issue before the hackathon deadline (Hackathon end date / time).
  
 If you don't know what to build, here are some ideas: • Games; • DeFi Projects (Uniswap V3, Flash loans, a collateralized stablecoin, etc.); • Generic factories; • Oracles;
  
