@@ -8,10 +8,10 @@ Fuel is the fastest execution layer for the modular blockchain stack that delive
 For this bounty, you must build a dApp using the Sway language. You must post a link to your devpost submission as a comment to this issue before the hackathon deadline (Hackathon end date / time).
  
 If you don't know what to build, here are some ideas: 
-• Games; 
-• DeFi Projects (Uniswap V3, Flash loans, a collateralized stablecoin, etc.); 
-• Generic factories; 
-• Oracles;
+- Games; 
+- DeFi Projects (Uniswap V3, Flash loans, a collateralized stablecoin, etc.); 
+- Generic factories; 
+- Oracles;
  
 ## Additional Resources 🌐
 ⚡️ Understand Fuel's vision: [Introducing Fuel, the Fastest Modular Execution Layer](https://fuel-labs.ghost.io/introducing-fuel-the-fastest-modular-execution-layer/).
