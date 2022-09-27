@@ -16,7 +16,8 @@ If you don't know what to build, here are some ideas:
 ## Additional Resources 🌐
 ⚡️ Understand Fuel's vision: [Introducing Fuel, the Fastest Modular Execution Layer](https://fuel-labs.ghost.io/introducing-fuel-the-fastest-modular-execution-layer/).
  
-You can begin playing around with Sway by installing [Fuelup, the Fuel toolchain manager](https://github.com/FuelLabs/fuelup): `curl --proto '=https' --tlsv1.2 -sSf https://fuellabs.github.io/fuelup/fuelup-init.sh | sh `
+You can begin playing around with Sway by installing [Fuelup, the Fuel toolchain manager](https://github.com/FuelLabs/fuelup): 
+`curl --proto '=https' --tlsv1.2 -sSf https://fuellabs.github.io/fuelup/fuelup-init.sh | sh `
  
 If you have any questions, you can find technical support at the venue itself, or ask on our [Discord server](https://discord.gg/fuelnetwork).
  
